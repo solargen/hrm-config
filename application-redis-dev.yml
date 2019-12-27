@@ -1,0 +1,9 @@
+server:
+  port: 9003
+
+#redis的连接配置
+hrm:
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    
