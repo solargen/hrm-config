@@ -1,6 +1,6 @@
 server:
   port: 9529
-å•Š
+#°¡
 spring:
   application:
     name: ZUUL-GATEWAY
